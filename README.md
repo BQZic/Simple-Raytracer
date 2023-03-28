@@ -1,4 +1,4 @@
-# Tiny Raytracer
+# Raytracer
 
 Main code is under `js/shaders/fragmentShader.frag`. c++ version is working in progress.
 
